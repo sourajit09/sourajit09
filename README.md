@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5BB3FF&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;MCA+Student;DSA+Enthusiast;SIH+Participant" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on: Optimizing Full-Stack applications for scalability and performance.<br><br>👯 I’m looking to collaborate on: Projects involving High-Level Design (HLD) or Backend Architecture.<br><br>🤝 I’m looking for help with: Mastering Microservices and Load Balancing techniques.<br><br>🌱 I’m currently learning: System Design basics (Scalability, Caching, Load Balancers) and Advanced DSA.<br><br>💬 Ask me about: MERN Stack, C++, and designing resilient system architectures.<br><br>⚡ Fun fact: I like drawing system diagrams almost as much as I like writing code.🔭 I’m currently working on<br>
 
